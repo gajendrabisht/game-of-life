@@ -8,4 +8,4 @@ Run the "MainApplication.java" file in IntelliJ
 
 # Tests
 
-Rules of Evolution are present in CellTest.java
+Rules of Evolution are tested in CellTest.java
